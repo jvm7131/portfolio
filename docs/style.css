@@ -1,3 +1,13 @@
 body {
          background: lightBlue;
 }
+nav{
+    background-color:blue;
+}
+figure{ width:10vw;
+        max-width:400px;
+    
+}
+img{ width:50vw;
+    
+}
