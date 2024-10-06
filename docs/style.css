@@ -1,13 +1,13 @@
 body {
-         background: lightBlue;
+         background: #a1caf1;
 }
 nav{
-    background-color:blue;
+    background-color:ghostwhite;
 }
-figure{ width:10vw;
+figure{ width:20vw;
         max-width:400px;
     
 }
-img{ width:50vw;
+img{ width:20vw;
     
 }
